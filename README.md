@@ -11,7 +11,7 @@ Repositório para armazenar resumos sobre Git e GitHub do curso Bootcamp Ciênci
 -
 | Aulas | Resumos |
 |------|----------|
-|Gravando alterações no repositório local |[Resumos]() |
+|Gravando alterações no repositório local |[Resumo]() |
 
 ````
 git init 
